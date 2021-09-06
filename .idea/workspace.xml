@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d94fdd-6099-4aa5-9527-087f3956124e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/discovery-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-server/src/main/java/io/javabrains/discoveryserver/DiscoveryServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-server/src/test/java/io/javabrains/discoveryserver/DiscoveryServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server/src/test/java/com/stefanbanu/discoveryserver/DiscoveryServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/models/CatalogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/models/CatalogItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/models/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/models/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/models/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/models/UserRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/models/UserRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/io/javabrains/moviecatalogservice/resources/CatalogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/resources/CatalogResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/test/java/io/javabrains/moviecatalogservice/MovieCatalogServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/test/java/com/stefanbanu/moviecatalogservice/MovieCatalogServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/stefanbanu/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/stefanbanu/movieinfoservice/models/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/models/MovieSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/stefanbanu/movieinfoservice/models/MovieSummary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/io/javabrains/movieinfoservice/resources/MovieResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/stefanbanu/movieinfoservice/resources/MovieResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-info-service/src/test/java/io/javabrains/movieinfoservice/MovieInfoServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/test/java/com/stefanbanu/movieinfoservice/MovieInfoServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/RatingsDataServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/com/stefanbanu/ratingsdataservice/RatingsDataServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/com/stefanbanu/ratingsdataservice/model/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/model/UserRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/com/stefanbanu/ratingsdataservice/model/UserRating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/main/java/io/javabrains/ratingsdataservice/resources/RatingsResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/main/java/com/stefanbanu/ratingsdataservice/resources/RatingsResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ratings-data-service/src/test/java/io/javabrains/ratingsdataservice/RatingsDataServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ratings-data-service/src/test/java/com/stefanbanu/ratingsdataservice/RatingsDataServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/resources/CatalogResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-catalog-service/src/main/java/com/stefanbanu/moviecatalogservice/resources/CatalogResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,8 +139,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MovieInfoServiceApplication" />
-        <item itemvalue="Application.RatingsDataServiceApplication" />
         <item itemvalue="Application.MovieCatalogServiceApplication (1)" />
+        <item itemvalue="Application.RatingsDataServiceApplication" />
         <item itemvalue="Application.MovieCatalogServiceApplication" />
       </list>
     </recent_temporary>
@@ -216,6 +198,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
